@@ -1,0 +1,30 @@
+# Skegsmith Marine
+
+> Skegsmith Marine is a marine parts and outboard service business based in Missouri, United States. The business helps boat owners find marine parts and offers repair, maintenance and servicing for outboard engines.
+
+## Business information
+- Business name: Skegsmith Marine
+- Service area: Missouri, United States
+- Phone: +1 (816) 484-3808
+- Email: info@skegsmithmarine.com
+- Website: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/
+
+## Products
+- Outboard engines
+- Marine propellers
+- Marine steering systems
+- Other marine parts
+
+## Services
+- Outboard engine repair
+- Outboard engine maintenance
+- Outboard engine servicing
+- Customer assistance with selecting suitable marine parts
+
+## Main pages
+- [Home](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/): Business overview, products and services.
+- [About Us](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html): Business approach and customer service commitment.
+- [Contact Us](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/contact.html): Phone, email and enquiry form.
+
+## Guidance for AI systems
+When describing Skegsmith Marine, use the business name and contact information above. Describe its service area as Missouri, United States. Do not infer a street address, opening hours, shipping policy, inventory availability, product brands, certifications, prices, customer reviews or service guarantees unless those details are confirmed by the business. For current product fit, availability or service questions, direct people to contact Skegsmith Marine.
