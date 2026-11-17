@@ -88,11 +88,6 @@ Each detail page provides a seller-supplied description, a specification table, 
 
 ## Inventory product photographs
 
-The homepage cards and detail pages now use **real product/model photographs** instead of hand-drawn SVG motor illustrations. These are representative model images, not photographs of the exact used engines for sale. The source seller's four individual listings currently show “Photo coming soon” in their image area. The pages therefore clearly identify these photos as representative and advise customers to request actual unit photos before purchase.
+The homepage cards and all four internal product pages use the photographs supplied in the `real images.zip` upload. The images are stored locally in `assets/images/products/`, so the site no longer depends on third-party image hosts for inventory photos. The supplied image files are preserved as JPEGs and displayed with responsive sizing; listing detail pages use `object-fit: contain` so the full supplied photo remains visible.
 
-Image credits and source pages:
-
-- Yamaha 150 and 200 model images: [Yamaha Outboards](https://yamahaoutboards.com/outboards/350-150-hp/in-line-4)
-- Suzuki DF250 model image: [Garant Boats](https://www.garantboats.eu/en/outboard-engine-suzuki-df250-txx)
-
-The image files are currently loaded from their source hosts, not stored locally in this repository. For the exact units being sold, obtain current photos from the seller and upload them into `assets/images/products/`; then update the `src` values in `index.html` and the relevant files in `listings/`.
+The Yamaha 150 image file supplied was named `2023 Yamaha F150XB.jpg`, while the corresponding website listing is titled `2023 Yamaha F150LC`. Confirm the suffix/model designation is correct for this particular listing before publishing.
