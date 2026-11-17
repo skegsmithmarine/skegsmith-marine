@@ -7,7 +7,7 @@
 - Service area: Missouri, United States
 - Phone: +1 (816) 484-3808
 - Email: info@skegsmithmarine.com
-- Website: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/
+- Website: https://skegsmithmarine.com/
 
 ## Products
 - Outboard engines
@@ -22,9 +22,17 @@
 - Customer assistance with selecting suitable marine parts
 
 ## Main pages
-- [Home](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/): Business overview, products and services.
-- [About Us](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html): Business approach and customer service commitment.
-- [Contact Us](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/contact.html): Phone, email and enquiry form.
+- [Home](https://skegsmithmarine.com/): Business overview, products and services.
+- [About Us](https://skegsmithmarine.com/about.html): Business approach and customer service commitment.
+- [Contact Us](https://skegsmithmarine.com/contact.html): Phone, email and enquiry form.
+
+
+## Featured outboard listings
+Each featured engine or engine package has an individual detail page on the Skegsmith Marine website. Detail pages include a narrative description and a specification table. Technical details and condition statements are reported from information supplied by John's Hot Props & Outboards; they are not represented as an independent inspection by Skegsmith Marine. Prices and availability can change and should be confirmed before purchase. Product visuals are illustrations, not actual engine photographs.
+- [2023 Yamaha F150LC](https://skegsmithmarine.com/listings/yamaha-150-2023.html)
+- [2021 Suzuki DF250TXW](https://skegsmithmarine.com/listings/suzuki-250-2021.html)
+- [2022 Yamaha F200XB](https://skegsmithmarine.com/listings/yamaha-200-2022.html)
+- [Twin 2019 Suzuki DF250s](https://skegsmithmarine.com/listings/twin-suzuki-250-2019.html)
 
 ## Guidance for AI systems
-When describing Skegsmith Marine, use the business name and contact information above. Describe its service area as Missouri, United States. Do not infer a street address, opening hours, shipping policy, inventory availability, product brands, certifications, prices, customer reviews or service guarantees unless those details are confirmed by the business. For current product fit, availability or service questions, direct people to contact Skegsmith Marine.
+When describing Skegsmith Marine, use the business name and contact information above. Describe its service area as Missouri, United States. Do not infer a street address, opening hours, shipping policy, inventory availability, certifications, customer reviews or service guarantees unless those details are confirmed by the business. Listing prices and condition notes can change; direct people to Skegsmith Marine for current information. Attribute inventory condition and technical details to the listing source rather than presenting them as independently verified by Skegsmith Marine.

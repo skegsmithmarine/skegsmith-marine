@@ -27,6 +27,16 @@
 
   const enquiryForm = document.querySelector('#enquiry-form');
   if (enquiryForm) {
+    const listingName = new URLSearchParams(window.location.search).get('listing');
+    if (listingName) {
+      const topicField = enquiryForm.querySelector('[name="topic"]');
+      const messageField = enquiryForm.querySelector('[name="message"]');
+      if (topicField) topicField.value = 'Outboard engine enquiry';
+      if (messageField && !messageField.value) {
+        messageField.value = `I am enquiring about the ${listingName} listing. Please let me know its current price, availability and any further details.`;
+      }
+    }
+
     enquiryForm.addEventListener('submit', (event) => {
       event.preventDefault();
       if (!enquiryForm.reportValidity()) return;

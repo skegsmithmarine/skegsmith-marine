@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/</loc>
+    <loc>https://skegsmithmarine.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html</loc>
+    <loc>https://skegsmithmarine.com/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/contact.html</loc>
+    <loc>https://skegsmithmarine.com/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://skegsmithmarine.com/listings/yamaha-150-2023.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://skegsmithmarine.com/listings/suzuki-250-2021.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://skegsmithmarine.com/listings/yamaha-200-2022.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://skegsmithmarine.com/listings/twin-suzuki-250-2019.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
